@@ -1,6 +1,6 @@
 {
     "apps" : [
-        {"name":"Bazarr","url":"192.168.1.176:6767","icon":"subtitles"},
+        {"name":"Bazarr","url":"192.168.1.191:6767","icon":"subtitles"},
         {"name":"Calibre-Web","url":"192.168.1.176:8083","icon":"bookshelf"},
 	{"name":"DokuWiki","url":"192.168.1.176:90","icon":"wikipedia"},
         {"name":"Jackett","url":"vps790507.ovh.net:9117","icon":"tshirt-crew-outline"},
