@@ -66,15 +66,24 @@
 
     <main id="container" class="fade">
 
-        <section id="search">
-            <input name="keywords" type="text" id="keywords" size="50" spellcheck="false" autofocus="true" onkeydown="handleKeyPress(event)">
-        </section>
-            
-        <section id="header">
+
+<!--added below-->
+ <section id="header">
             <h2 id="header_date"></h2>
             <h1 id="header_greet"></h1>
         </section>
 
+
+
+        <section id="search">
+            <input name="keywords" type="text" id="keywords" size="50" spellcheck="false" autofocus="true" onkeydown="handleKeyPress(event)">
+        </section>
+            
+<!--        <section id="header">
+            <h2 id="header_date"></h2>
+            <h1 id="header_greet"></h1>
+        </section>
+-->
         <section id="apps">
             <script type="text/handlebars-template" id="apps-template">
             <h3>Applications</h3>
@@ -85,7 +94,7 @@
                             <span class="iconify icon" data-icon="mdi-{{icon}}"></span>
                         </div>
                         <div class="apps_text">
-                            <a href="https://{{url}}">{{name}}</a>
+                            <a href="http://{{url}}">{{name}}</a>
                             <span id="app-address">{{url}}</span>
                         </div>
                     </div>

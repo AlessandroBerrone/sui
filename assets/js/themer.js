@@ -82,7 +82,7 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                 setTheme({
                     'color-background': '#263238',
                     'color-text-pri': '#AABBC3',
-                    'color-text-acc': '#aeea00'
+                    'color-text-acc': '#ff5722'
                 });
                 return;
 
@@ -98,7 +98,7 @@ for (let i = 0; i < dataThemeButtons.length; i++) {
                 setTheme({
                     'color-background': '#242B33',
                     'color-text-pri': '#EFFBFF',
-                    'color-text-acc': '#6EE2FF'
+                    'color-text-acc': '#f6d305'
                 });
                 return;
             

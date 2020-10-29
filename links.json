@@ -1,138 +1,139 @@
 {
             "bookmarks" : [
               {
-                "category": "Communicate",
+                "category": "Social",
                 "links": [
                   {
-                    "name": "Discord",
-                    "url": "https://discordapp.com/"
-                  },
-                  {
                     "name": "Gmail",
-                    "url": "http://gmail.com"
+                    "url": "https://mail.google.com/mail/u/0/#inbox"
                   },
                   {
-                    "name": "Slack",
-                    "url": "https://slack.com/signin"
+                    "name": "Facebook",
+                    "url": "https://www.facebook.com/"
+                  },
+                  {
+                    "name": "Telegram Web",
+                    "url": "https://web.telegram.org/#/im"
+                  },
+		  {
+                    "name": "Reddit",
+                    "url": "https://www.reddit.com/"
                   }
+
                 ]
               },
               {
                 "category": "Cloud",
                 "links": [
                   {
-                    "name": "Box",
-                    "url": "https://box.net"
+                    "name": "Google Drive",
+                    "url": "https://drive.google.com/drive/u/0/"
                   },
                   {
                     "name": "Dropbox",
                     "url": "https://dropbox.com"
                   },
                   {
-                    "name": "Drive",
-                    "url": "https://drive.google.com"
+                    "name": "Amazon Cloud",
+                    "url": "https://drive.google.com/drive/u/0/"
                   }
                 ]
               },
               {
-                "category": "Design",
+                "category": "Università",
                 "links": [
                   {
-                    "name": "Awwwards",
-                    "url": "https://awwwards.com"
+                    "name": "Gmail UPO",
+                    "url": "https://mail.google.com/mail/u/1/#inbox"
                   },
                   {
-                    "name": "Dribbble",
-                    "url": "https://dribbble.com"
+                    "name": "Esame di Laurea",
+                    "url": "https://www.scuolamed.uniupo.it/tutto-studenti/professioni-sanitarie/infermieristica-triennale/esame-di-laurea"
                   },
                   {
-                    "name": "Muz.li",
-                    "url": "https://medium.muz.li/"
-                  }
-                ]
-              },
-              {
-                "category": "Dev",
-                "links": [
-                  {
-                    "name": "Codepen",
-                    "url": "https://codepen.io/"
+                    "name": "Accesso SCIO",
+                    "url": "https://www.scuolamed.uniupo.it/tutto-studenti/professioni-sanitarie/scienze-infermieristiche-e-ostetriche/accesso-al-corso-di"
                   },
-                  {
-                    "name": "Devdocs",
-                    "url": "https://devdocs.io"
-                  },
-                  {
-                    "name": "Devhints",
-                    "url": "https://devhints.io"
-                  }
-                ]
-              },
-              {
-                "category": "Lifestyle",
-                "links": [
-                  {
-                    "name": "Design Milk",
-                    "url": "https://design-milk.com/category/interior-design/"
-                  },
-                  {
-                    "name": "Dwell",
-                    "url": "https://www.dwell.com/"
-                  },
-                  {
-                    "name": "Freshome",
-                    "url": "https://freshome.com/"
-                  }
+		  {
+		    "name": "ESSE3",
+		    "url": "https://www.studenti.uniupo.it/"
+   		  }
                 ]
               },
               {
                 "category": "Media",
                 "links": [
                   {
-                    "name": "Spotify",
-                    "url": "http://browse.spotify.com"
-                  },
-                  {
-                    "name": "Trakt",
-                    "url": "http://trakt.tv"
-                  },
-                  {
                     "name": "YouTube",
-                    "url": "http://youtube.com/subscriptions"
+                    "url": "https://www.youtube.com/"
+                  },
+                  {
+                    "name": "Netflix",
+                    "url": "https://www.netflix.com/browse"
+                  },
+                  {
+                    "name": "Prime Video",
+                    "url": "https://www.primevideo.com"
                   }
                 ]
               },
               {
-                "category": "Reading",
+                "category": "Download",
                 "links": [
                   {
-                    "name": "Instapaper",
-                    "url": "https://www.instapaper.com/u"
+                    "name": "RuTracker",
+                    "url": "https://rutracker.net/forum/index.php"
                   },
                   {
-                    "name": "Medium",
-                    "url": "http://medium.com"
+                    "name": "FitGirl",
+                    "url": "http://fitgirl-repacks.site/"
                   },
                   {
-                    "name": "Reddit",
-                    "url": "http://reddit.com"
+                    "name": "LibGen",
+                    "url": "https://libgen.lc"
                   }
                 ]
               },
               {
-                "category": "Tech",
+                "category": "Andersen",
                 "links": [
                   {
-                    "name": "TheNextWeb",
-                    "url": "https://thenextweb.com/"
+                    "name": "Upwork Chat",
+                    "url": "https://www.upwork.com/messages/"
                   },
                   {
-                    "name": "The Verge",
-                    "url": "https://theverge.com/"
+                    "name": "Andersen International School",
+                    "url": "https://andersenschool.it/wp-admin"
                   },
                   {
-                    "name": "MIT Technology Review",
-                    "url": "https://www.technologyreview.com/"
+                    "name": "Google Analytics",
+                    "url": "http://analytics.google.com"
+                  }
+                ]
+              },
+              {
+                "category": "Giochi",
+                "links": [
+                  {
+                    "name": "Hattrick",
+                    "url": "https://www81.hattrick.org/MyHattrick/Dashboard.aspx"
+                  },
+                  {
+                    "name": "Virtual Regatta",
+                    "url": "https://www81.hattrick.org/MyHattrick/Dashboard.aspx"
+                  }
+                ]
+              },
+              {
+                "category": "Shopping",
+                "links": [
+                  {
+                    "name": "Amazon",
+                    "url": "https://www.amazon.it/"
+                  },
+                  {
+                    "name": "eBay",
+                    "url": "https://www.ebay.it"
                   }
                 ]
               }

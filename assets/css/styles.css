@@ -39,7 +39,7 @@ h1, h2{
 	font-weight: 300;
 	margin: 0;
 	padding: 0;
-	text-align: left;
+	text-align: center; /*original:left*/
 }
 
 h2, h3, h4{
@@ -62,6 +62,10 @@ h3{
 	font-size: 20px;
 	font-weight: 900;
 	height: 10px;
+	text-align: center; /*original:left*/
+	padding-bottom: 25px; /*new*/
+   	padding-top: 15px; /*new*/
+
 }
 
 h4{
@@ -97,6 +101,7 @@ input{
 	height: 3.5em;
 	transition: all 0.4s ease;
 	width: 100%;
+	padding-top: 170px; /*new*/
 }
 
 input:focus{
@@ -176,7 +181,7 @@ table a{
 	align-items: stretch;
 	display: grid;
 	grid-column-gap: 20px;
-	grid-row-gap: 3vh;
+	grid-row-gap: 1vh; /*original: 3vh*/ 
 	grid-template-columns: 1fr;
 	grid-template-rows: 8vh auto;
 	justify-items: stretch;
@@ -193,6 +198,7 @@ table a{
 #header{
 	border-bottom: 0px solid var(--color-text-acc);
 	z-index: 1;
+	padding-top: 50px; /*new*/
 }
 
 #apps_loop{
@@ -200,7 +206,7 @@ table a{
 	display: grid;
 	grid-column-gap: 0px;
 	grid-row-gap: 0px;
-	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr; /*original: 4x 1fr*/
 	grid-template-rows: 64px;
 	padding-bottom: var(--module-spacing);
 }
@@ -248,13 +254,13 @@ table a{
 	flex-wrap: nowrap;
 	grid-column-gap: 20px;
 	grid-row-gap: 0px;
-	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr; /*original: 4x 1fr*/
 	grid-template-rows: auto;
 }
 
 #links_item{
 	line-height: 1.5rem;
-	margin-bottom: 2em;
+	margin-bottom: 0em; /*original:2em*/
 	webkit-font-smoothing: antialiased;
 }
 
