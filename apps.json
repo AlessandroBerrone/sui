@@ -9,6 +9,6 @@
         {"name":"QNAP","url":"192.168.1.191:8080","icon":"nas"},
         {"name":"Radarr","url":"192.168.1.191:7878","icon":"movie-open"},
         {"name":"Sonarr","url":"192.168.1.191:8989","icon":"television-box"},
-        {"name":"Transmission","url":"192.168.1.191:9091/transmission/web","icon":"download-network"}
+        {"name":"Transmission","url":"192.168.1.191:9091","icon":"download-network"}
     ]
 }
